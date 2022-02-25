@@ -59,7 +59,7 @@
 </a>
 <a href="https://github.com/meetgandhii/hotel-booking-system-django">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=hotel-booking-system-django&show_owner=false" />
-</a>
+</a> 
 <a href="https://github.com/meetgandhii/Data_Science">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=Data_Science&show_owner=false" />
 </a>
