@@ -48,25 +48,29 @@
 
 ## My Repos
 
-<a href="https://github.com/meetgandhii/LoanEligibilityChecker">
+<div><a href="https://github.com/meetgandhii/LoanEligibilityChecker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=LoanEligibilityChecker&show_owner=false" />
-</a>
-<a href="https://github.com/MadhurDixit13/Ride-Along">
+</a></div>
+  
+<div><a href="https://github.com/MadhurDixit13/Ride-Along">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadhurDixit13&repo=Ride-Along&show_owner=false" />
-</a>
-<a href="https://github.com/meetgandhii/salon-bill-and-time-management-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=salon-bill-and-time-management-system&show_owner=false" />
-</a>
-<a href="https://github.com/meetgandhii/hotel-booking-system-django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=hotel-booking-system-django&show_owner=false" />
-</a> 
-<a href="https://github.com/meetgandhii/Data_Science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=Data_Science&show_owner=false" />
-</a>
-<a href="https://github.com/meetgandhii/dogs-vs-cats-checker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=dogs-vs-cats-checker&show_owner=false" />
-</a>
+</a></div>
 
+<div><a href="https://github.com/meetgandhii/salon-bill-and-time-management-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=salon-bill-and-time-management-system&show_owner=false" />
+</a></div>
+  
+<div><a href="https://github.com/meetgandhii/hotel-booking-system-django">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=hotel-booking-system-django&show_owner=false" />
+</a></div>
+  
+<div><a href="https://github.com/meetgandhii/Data_Science">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=Data_Science&show_owner=false" />
+</a></div>
+  
+<div><a href="https://github.com/meetgandhii/dogs-vs-cats-checker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=dogs-vs-cats-checker&show_owner=false" />
+</a></div>
 
 
 <br>
