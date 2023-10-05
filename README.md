@@ -48,6 +48,10 @@
 
 ## My Repos
 
+<div><a href="https://github.com/meetgandhii/One-for-All">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=One-for-All&show_owner=false" />
+</a></div>
+
 <div><a href="https://github.com/meetgandhii/LoanEligibilityChecker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meetgandhii&repo=LoanEligibilityChecker&show_owner=false" />
 </a></div>
