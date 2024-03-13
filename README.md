@@ -2,7 +2,7 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=----A+Developer+from+Boston----++++++++++)](https://git.io/typing-svg)
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at <span><a href="https://portfolio-nu-lovat-90.vercel.app/">https://portfolio-nu-lovat-90.vercel.app/</a></span>
 
 - 📫 How to reach me <span><a href="mailto:meetgandhism@gmail.com">gandhi.meet@northeastern.edu</a></span>
 
